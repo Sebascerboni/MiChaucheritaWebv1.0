@@ -1,0 +1,8 @@
+input, select, .btn {
+    border-radius: 10px;
+    padding: 3px 10px;
+}
+
+.container-cuentas {
+	min-height: 300px;
+}

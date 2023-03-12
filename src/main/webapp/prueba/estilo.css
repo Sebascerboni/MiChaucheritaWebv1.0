@@ -1,0 +1,13 @@
+* {
+	font-family: Helvetica, sans-serif;
+	box-sizing: border-box;
+}
+
+table {
+	border: 1px solid gray;
+	border-collapse: collapse;
+}
+
+th, td {
+	border: 1px solid gray;
+}	
